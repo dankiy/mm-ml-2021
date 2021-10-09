@@ -1,0 +1,10 @@
+*
+
+!LICENSE
+!README.md
+!.gitignore
+!.gitkeep
+!*.yaml
+!*.py
+!*/
+!notebooks/*.ipynb
