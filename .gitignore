@@ -6,5 +6,7 @@
 !.gitkeep
 !*.yaml
 !*.py
-!*/
-!notebooks/*.ipynb
+!*.ipynb
+!notebooks/
+!src/
+!src/*
